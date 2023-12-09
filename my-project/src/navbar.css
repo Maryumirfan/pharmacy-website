@@ -1,0 +1,32 @@
+
+.nav{
+    background-color: rgb(1, 86, 88);
+    box-shadow: 1px 1px 6px black;
+    position: relative;
+}
+.n1{
+    color: white;
+    text-shadow: 2px 2px 2px rgb(35, 35, 35);
+}
+.btn3{
+    background-color: transparent;
+}
+.btn3:hover{
+    background-color: rgba(83, 85, 92, 0.717);
+}
+.l4{
+    text-decoration-line: none;
+    color: white;
+}
+.l6{
+    color: white;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+.l6:hover{
+    color: black;
+}
+.link3{
+  color: rgb(0, 0, 0);
+  text-decoration-line: none;
+}

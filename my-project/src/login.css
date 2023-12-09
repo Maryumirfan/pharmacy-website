@@ -1,0 +1,41 @@
+.login{
+    /* max-width: 1280px; */
+    margin: 0 auto;
+    padding: 2rem;
+    color: white;
+    height: 100vh;
+    background-image: url('BLUE.png');
+    background-size: cover;
+    background-position: fixed;
+}
+.d2{
+    display: flex;
+   justify-content: center;
+   margin-top: 60px;
+}
+.logform{
+    background-color: rgba(0, 53, 62, 0.719);
+    box-shadow: 1px 1px 5px rgb(0, 0, 0);
+    padding: 30px 32px;
+    width: 30%;
+    text-align: center;
+}
+.hh1{
+    font-size: smaller;
+}
+.link2{
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+}
+.link2:hover{
+   color: rgb(0, 0, 0);
+}
+.btn1{
+    background-color: rgb(56, 201, 199);
+    border: none;
+    color: rgb(0, 0, 0);
+}
+.btn1:hover{
+    background-color: rgb(3, 122, 126);
+    color: white;
+}

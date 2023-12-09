@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "medicines": [
+    {
+        "name": "Ibuprofen",
+        "image_url": "https://images.theconversation.com/files/321639/original/file-20200319-22610-18gca3.jpg?ixlib=rb-1.1.0&rect=0%2C25%2C5644%2C3844&q=45&auto=format&w=926&fit=clip",
+        "description": "A non-steroidal anti-inflammatory drug used to reduce pain and inflammation.",
+        "side_effects": "Headache, upset stomach, skin rash, or increased sensitivity to the sun",
+        "precautions": "Do not take with naproxen or aspirin, if pregnant or breastfeeding, or if you have a heart condition."
+    },
+    {
+        "name": "Lisinopril",
+        "image_url":"https://5.imimg.com/data5/SELLER/Default/2023/1/JR/YJ/LF/29824675/lisinopril-20-mg-tablet-500x500.jpg",
+        "description": "An ACE inhibitor used to treat high blood pressure and congestive heart failure.",
+        "side_effects": "Low blood pressure, fluid retention, cough, shortness of breath, or fatigue.",
+        "precautions": "If pregnant or breastfeeding, or if you have heart problems, kidney problems, or low blood pressure, consult your doctor before taking."
+    },
+    {
+        "name": "Metformin",
+        "description": "An oral medication used to treat type 2 diabetes.",
+        "image_url":"https://www.assetpharmacy.com/wp-content/uploads/2017/09/Metformin-500mg-Tablets-100-Tablets.jpg",
+        "side_effects": "Low blood sugar, numbness, or tingling, blurred vision, or unpleasant taste.",
+        "precautions": "Do not take with glipizide or glimepiride, if you have a heart condition, kidney problems, or diabetic ketoacidosis, or if you are pregnant or breastfeeding."
+    },
+    {
+        "name": "Albuterol",
+        "description": "A short-acting bronchodilator used to treat asthma and open the airways for better breathing.",
+        "image_url":"https://1family1health.com/wp-content/uploads/2021/05/albuterol-inhaler-2.jpg",
+        "side_effects": "Nausea, dizziness, fast heartbeat, chest tightness, or shortness of breath.",
+        "precautions": "Do not take if you have narrow-angle glaucoma, cardiac arrhythmias, or blood pressure problems."
+    },
+    {
+        "name": "Amoxicillin",
+        "image_url":"https://southstardrug.com.ph/cdn/shop/products/45609.jpg?v=1668166108",
+        "description": "An antibiotic used to treat a variety of bacterial infections.",
+        "side_effects": "Diarrhea, upset stomach, sore throat, or change in taste or smell.",
+        "precautions": "Do not take if you are allergic to penicillin, if you have a stomach ulcer, kidney disease, or severe skin rash."
+    }
+]
+}

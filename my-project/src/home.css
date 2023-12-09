@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.d5{
+    /* max-width: 1280px; */
+    margin: 0 auto;
+    padding: 2rem;
+    height: 90vh;
+    background-image: url('medical.png');
+    opacity: 0.5;
+    background-size: cover;
+    background-position: fixed;
+    position: relative;
+
+}
+.d4{
+    background-color: rgb(33, 33, 33);
+    height: 90vh;
+}
+.btn2{
+    background-color:transparent ;
+    padding: 9px 20px;
+    border: 3px solid rgb(13, 71, 59);
+    border-radius: 5px 5px 5px 5px;
+    position: absolute;
+    top: 400px;
+    left: 220px;
+   
+}
+.d3{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.btn2:hover{
+    
+    background-color:  rgb(13, 71, 59);
+}
+.l2{
+    color: white;
+    text-decoration-line: none;
+}
+
+.wel{
+    color: white;
+    text-shadow: 2px 2px 2px rgb(37, 37, 37);
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    text-align: center;
+}
+.priority{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgb(37, 37, 37);
+    position: absolute;
+    top: 260px;
+    left: 60px;
+    text-align: center;
+}
+.quote{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgb(48, 47, 47);
+    position: absolute;
+    top: 310px;
+    left: 60px;
+
+    font-weight: bold;
+}
