@@ -25,4 +25,14 @@
     background-color: white;
     color: rgb(0, 0, 0);
  } */
+ .container{
+   background-image:  url('medical.png');
+   margin: 0 auto;
+   padding: 2rem;
+   color: white;
+   background-size: contain;
+   background-position: fixed;
+   background-repeat: no-repeat;
+
+ }
  

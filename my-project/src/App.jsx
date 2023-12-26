@@ -5,8 +5,7 @@ import Register from './register';
 import Login from './login';
 import Home from './home';
 import Meds from './pharm';
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import MedDetails from './med';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
 function App() {
 
@@ -19,7 +18,7 @@ function App() {
           <Route path='/register' element={<Register />} />
           <Route path='/login' element={<Login />} />
           <Route path='/pharm' element={< Meds />} />
-          <Route path='med' element={<MedDetails />}/>
+
           </Routes>
       </BrowserRouter>
     </>
