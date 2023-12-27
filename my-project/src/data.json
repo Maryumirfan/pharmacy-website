@@ -4,7 +4,7 @@
     "medicines": [
     {
         "name": "Ibuprofen",
-        "image_url": "https://images.theconversation.com/files/321639/original/file-20200319-22610-18gca3.jpg?ixlib=rb-1.1.0&rect=0%2C25%2C5644%2C3844&q=45&auto=format&w=926&fit=clip",
+        "image_url": "https://www.schoolnursesupplyinc.com/cdn-cgi/image/quality%3D85/assets/images/18065.jpg",
         "description": "A non-steroidal anti-inflammatory drug used to reduce pain and inflammation.",
         "side_effects": "Headache, upset stomach, skin rash, or increased sensitivity to the sun",
         "precautions": "Do not take with naproxen or aspirin, if pregnant or breastfeeding, or if you have a heart condition."
@@ -32,10 +32,52 @@
     },
     {
         "name": "Amoxicillin",
-        "image_url":"https://southstardrug.com.ph/cdn/shop/products/45609.jpg?v=1668166108",
+        "image_url":"https://www.net32.com/media/shared/common/mp/house-brand/house-brand/media/generic-amoxicillin-500mg-100caps.jpg",
         "description": "An antibiotic used to treat a variety of bacterial infections.",
         "side_effects": "Diarrhea, upset stomach, sore throat, or change in taste or smell.",
         "precautions": "Do not take if you are allergic to penicillin, if you have a stomach ulcer, kidney disease, or severe skin rash."
-    }
+    },
+    {
+        "name": "Aspirin",
+        "image_url": "https://www.mon-pharmacien-conseil.com/15087-large_default/aspirin-of-the-rhone-500mg-50-tablets.jpg",
+        "side_effect": "Upset stomach, heartburn",
+        "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, menstrual cramps, and headaches.",
+        "precaution": "Avoid taking aspirin on an empty stomach to reduce the risk of stomach upset."
+      },
+      {
+        "name": "Valium (Diazepam)",
+      "image_url": "https://www.dvago.pk/_next/image?url=https%3A%2F%2Fdvago-assets.s3.ap-southeast-1.amazonaws.com%2FProductsImages%2F04499.JPG&w=1920&q=50",
+      "side_effect": "Drowsiness, dizziness",
+      "description": "Diazepam is a benzodiazepine used to treat anxiety, muscle spasms, and seizures. It works by calming the brain and nerves.",
+      "precaution": "Avoid alcohol and operate machinery cautiously while taking diazepam, as it may cause drowsiness."
+    },
+    {
+        "name": "Paracetamol",
+        "image_url": "https://www.typharm.com/wp-content/uploads/2020/07/Paracetamol-500mg-Suppositories.png",
+        "side_effect": "Rare, but may cause skin rash",
+        "description": "Paracetamol is a common pain reliever and fever reducer. It is often used to alleviate mild to moderate pain from conditions such as muscle aches, headaches, and toothaches.",
+        "precaution": "Do not exceed the recommended dosage to avoid potential liver damage."
+      },
+      {
+        "name": "Ciprofloxacin",
+        "image_url": "https://www.bloompharmacy.com/cdn/shop/products/ciprofloxacin-500-mg-10-tablets-518338.jpg?v=1687635258",
+        "side_effect": "Nausea, diarrhea, tendon rupture (rare)",
+        "description": "Ciprofloxacin is an antibiotic used to treat various bacterial infections, including urinary tract infections and respiratory tract infections.",
+        "precaution": "Avoid taking ciprofloxacin with dairy products or calcium-fortified juices, and stay hydrated while using this medication."
+      },
+      {
+        "name": "Omeprazole",
+        "image_url": "https://www.postmymeds.co.uk/wp-content/uploads/2017/12/Omeprazole-20mg-Capsules.jpg",
+        "side_effect": "Headache, nausea, diarrhea",
+        "description": "Omeprazole is a proton pump inhibitor used to reduce stomach acid. It is commonly prescribed to treat conditions such as gastroesophageal reflux disease (GERD) and stomach ulcers.",
+        "precaution": "Take omeprazole before meals for optimal effectiveness and inform your doctor of any persistent side effects."
+      },
+      {
+        "name": "Amlodipine",
+        "image_url": "https://www.1800petmeds.com/dw/image/v2/BDKX_PRD/on/demandware.static/-/Sites-main/default/dwccbbcb9b/images/large/11163_420.jpg?sw=1000&sh=1000&q=40",
+        "side_effect": "Swelling of ankles or feet, dizziness",
+        "description": "Amlodipine is a calcium channel blocker used to treat high blood pressure and chest pain (angina). It works by relaxing blood vessels, allowing blood to flow more smoothly.",
+        "precaution": "Notify your doctor if you experience severe swelling, lightheadedness, or rapid weight gain."
+      }
 ]
 }

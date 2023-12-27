@@ -11,17 +11,17 @@ function Meds() {
   const medicines = jsonData.medicines;
 
   return (
-    <div>
+    <div className="all">
       <NavScroll />
       <div className="container">
-        <div className="row" style={{ }}>
+        <div className="row">
           {medicines.map((item) => (
             <div key={item.name} className="col-md-4 mb-3">
-              <Card style={{ backgroundColor: 'Transparent', boxShadow: '1px 1px 4px solid black', border: '1px solid black' }}>
+              <Card className='card1'>
                 <Card.Img variant="top" src={item.image_url} style={{ marginTop: '10px', border: '2px solid white', boxShadow: '2px 2px 5px solid black' }} />
                 <Card.Body className='b'>
                   <Card.Title>{item.name}</Card.Title>
-                  <Button className='btn6' >Details</Button>
+                  <Button className='btn6' >More Details</Button>
                 </Card.Body>
               </Card>
             </div>

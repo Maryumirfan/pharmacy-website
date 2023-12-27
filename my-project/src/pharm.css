@@ -1,4 +1,4 @@
-/* .search{
+ /* .search{
     position: absolute;
     top: 15px;
     display: flex;
@@ -15,24 +15,29 @@
  }
  .b{
     color: white;
- }
+ } */
  .btn6{
-    background-color: transparent;
+    background-color: rgb(1, 100, 100);
     color: white;
-    border: 3px solid white;
  }
  .btn6:hover{
-    background-color: white;
+    background-color: rgb(6, 157, 157);
     color: rgb(0, 0, 0);
- } */
- .container{
-   background-image:  url('medical.png');
-   margin: 0 auto;
-   padding: 2rem;
+ } 
+ .all{
+   background-image:  url('https://t4.ftcdn.net/jpg/02/67/61/63/360_F_267616380_QoPhbL7PL50JdxR9dva9yyZ46yXnYsfo.webp');
+   /* margin: 0 auto;
+   padding: 2rem; */
    color: white;
-   background-size: contain;
+   background-size: cover;
    background-position: fixed;
    background-repeat: no-repeat;
 
  }
+.card1{
+   background-color: white;
+   border: 1px white;
+   box-shadow: 1px 1px 5px rgb(0, 0, 0);
+   margin-top: 10px;
+}
  
