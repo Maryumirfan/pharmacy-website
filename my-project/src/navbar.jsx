@@ -10,7 +10,7 @@ function NavScroll() {
   return (
     <Navbar expand="lg" className="nav">
       <Container fluid>
-        <Navbar.Brand href="#" className='n1'><b>HealthCare</b></Navbar.Brand>
+        <Navbar.Brand href="#" className='n1'><b>Pharma</b></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav

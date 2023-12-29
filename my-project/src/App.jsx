@@ -7,6 +7,7 @@ import Home from './home';
 import Meds from './pharm';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
+
 function App() {
 
 
@@ -18,7 +19,7 @@ function App() {
           <Route path='/register' element={<Register />} />
           <Route path='/login' element={<Login />} />
           <Route path='/pharm' element={< Meds />} />
-
+        
           </Routes>
       </BrowserRouter>
     </>

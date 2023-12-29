@@ -9,19 +9,20 @@ function Home() {
           <div className='d4'>
           <div className='d5'></div>
              <div className='bg'></div>       
-               <h1 className='wel'>WELCOME! To Health Care,</h1>
+               <h1 className='wel'>WELCOME! To Pharma</h1>
                <h3 className='priority'>where your health is our priority</h3>
-               <p className='quote'>"Proudly serving our local community with a commitment to <br /> health and happiness."</p>
+               <p className='quote'>"Proudly serving our local community with a commitment to health and happiness."</p>
                <div className='d3'>
                <button className='btn2'> 
-        <Link className='l2' to='/news'>Get Started</Link>
+        <Link className='l2' to='/pharm'>Get Started</Link>
       
       </button>
                </div>
       
           </div>
-            
            
+             
+            
         </div>
     );
 }

@@ -18,9 +18,9 @@ function Meds() {
           {medicines.map((item) => (
             <div key={item.name} className="col-md-4 mb-3">
               <Card className='card1'>
-                <Card.Img variant="top" src={item.image_url} style={{ marginTop: '10px', border: '2px solid white', boxShadow: '2px 2px 5px solid black' }} />
+                <Card.Img variant="top" src={item.image_url} style={{ marginTop: '5px' }} />
                 <Card.Body className='b'>
-                  <Card.Title>{item.name}</Card.Title>
+                  <Card.Title style={{textAlign: 'center'}}>{item.name}</Card.Title>
                   <Button className='btn6' >More Details</Button>
                 </Card.Body>
               </Card>
