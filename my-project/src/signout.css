@@ -1,0 +1,29 @@
+.si{
+    margin: 0 auto;
+    padding: 2rem;
+    height: 100vh;
+    background-image: url('sign.png');
+    background-size: cover;
+    background-position: fixed;
+ position: relative;
+  }
+  .head2{
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    color: white;
+  }
+  .btn7{
+    position: absolute;
+    top: 400px;
+    left: 540px;
+    background-color: rgb(255, 255, 255);
+  }
+  .btn7:hover{
+    background-color: rgb(222, 221, 219);
+  }
+  .l3{
+    text-decoration-line: none;
+    color: black;
+  }
+  

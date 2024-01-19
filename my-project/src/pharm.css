@@ -35,10 +35,16 @@
    background-repeat: no-repeat;
 
  }
+ .container{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+ }
 .card1{
    background-color: white;
    border: 1px white;
-   box-shadow: 1px 1px 5px rgb(0, 0, 0);
+   box-shadow: 1px 1px 7px rgb(40, 40, 40);
    margin-top: 10px;
 }
  

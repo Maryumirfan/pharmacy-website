@@ -1,13 +1,14 @@
+
 {
     "status": "ok",
     "totalResults": 33,
     "medicines": [
     {
-        "name": "Ibuprofen",
-        "image_url": "https://www.schoolnursesupplyinc.com/cdn-cgi/image/quality%3D85/assets/images/18065.jpg",
-        "description": "A non-steroidal anti-inflammatory drug used to reduce pain and inflammation.",
-        "side_effects": "Headache, upset stomach, skin rash, or increased sensitivity to the sun",
-        "precautions": "Do not take with naproxen or aspirin, if pregnant or breastfeeding, or if you have a heart condition."
+        "name1": "Ibuprofen",
+        "image_url1": "https://www.schoolnursesupplyinc.com/cdn-cgi/image/quality%3D85/assets/images/18065.jpg",
+        "description1": "A non-steroidal anti-inflammatory drug used to reduce pain and inflammation.",
+        "side_effects1": "Headache, upset stomach, skin rash, or increased sensitivity to the sun",
+        "precautions1": "Do not take with naproxen or aspirin, if pregnant or breastfeeding, or if you have a heart condition."
     },
     {
         "name": "Lisinopril",
@@ -34,8 +35,8 @@
         "name": "Amoxicillin",
         "image_url":"https://www.net32.com/media/shared/common/mp/house-brand/house-brand/media/generic-amoxicillin-500mg-100caps.jpg",
         "description": "An antibiotic used to treat a variety of bacterial infections.",
-        "side_effects": "Diarrhea, upset stomach, sore throat, or change in taste or smell.",
-        "precautions": "Do not take if you are allergic to penicillin, if you have a stomach ulcer, kidney disease, or severe skin rash."
+        "side_effects": "Diarrhea, upset stomach, sore throat, or change in taste or smell",
+        "precautions": "Dl.o not take if you are allergic to penicillin, if you have a stomach ulcer, kidney disease, or severe skin rash."
     },
     {
         "name": "Aspirin",

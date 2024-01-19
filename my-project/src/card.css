@@ -1,0 +1,96 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.medi{
+    width: 83%;
+}
+.medi2{
+    width: 105%;
+}
+.medi12{
+    width: 60%;
+}
+.medi6{
+    width: 74%;
+}
+.medi11{
+    width: 73%;
+}
+.medi8{
+    width: 87%;
+}
+.medi10{
+    width: 68%;
+}
+.medi9{
+    width: 73%;
+}
+.medi7{
+    width: 87%;
+}
+.medi4{
+    width: 85%;
+}
+.medi5{
+    margin-top: 3px;
+    width: 85%;
+}
+.top1{
+    margin-top: 70px;
+}
+.sec{
+    margin-top: 30px;
+}
+.third{
+    margin-top: 10px;
+}
+.btn8{
+    padding: 12px 24px;
+     border: none;
+    background-color: rgb(1, 100, 100);
+}
+.btn8:hover{
+    background-color: rgb(6, 157, 157);
+    color: rgb(0, 0, 0);
+}
+.ll{
+    color: black;
+    text-decoration-line: none;
+}
+.ll:hover{
+    color: white;
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.last1{
+    width: 85%;
+ 
+}
+.total{
+       /* max-width: 1280px; */
+       margin: 0 auto;
+       padding: 2rem;
+       height: 89vh;
+       background-image: url('bg_1.jpg');
+  
+       background-size: cover;
+       background-position: fixed;
+       position: relative;
+}
+.last{
+   margin-left: 150px;
+}
+/* .info2{
+     margin-left: 170px;
+} */
